@@ -1,5 +1,5 @@
 // Write your code here
-//class Breakfast {}
+
 class Breakfast {
   constructor(food,drink){
     this.food = food ;
@@ -7,7 +7,7 @@ class Breakfast {
     }
 }
 
-//class Lunch {}
+
 class Lunch {
   constructor(salad,soup,drink){
     this.salad = salad;
@@ -16,7 +16,6 @@ class Lunch {
   }
 }
 
-//class Dinner {}
 class Dinner {
   constructor(salad,soup,entree,dessert){
     this.salad = salad;
